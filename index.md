@@ -1,6 +1,4 @@
 # Jamie's Blog
-
-## This Blog
 This blog is a place for me to write up interesting articles about things, mostly programming related, but probably also quite wide ranging. I am in definite need of somewhere to paste and share ideas that have no other home so they'll all end up here.
 
 ## About
