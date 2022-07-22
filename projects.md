@@ -12,3 +12,6 @@ These two projects were also originally designed for use in DarkRift to provided
 
 ## Pyash
 [Pyash](https://github.com/JamJar00/pyash) was a joke project to see how far you can abuse operator overloading in Python to make it run shell-like syntax. It was accompanied by a more thorough explaination in a blog post on [dev.to](https://dev.to/jamoyjamie/pyash-and-why-i-can-t-have-nice-things-anymore-26lo). It always interested me that Apache Airflow chose to use a similar concept in their DAGs.
+
+## restdir
+[A simple project to serve a directory.](https://github.com/JamJar00/restdir) This is something I've needed a few times and was always a little sad there wasn't a simple and lightweight tool for it. I can't say I've actually used it since writing it, but at least I know I have it now!
