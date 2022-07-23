@@ -1,9 +1,9 @@
 ---
 ---
+
+@import "{{ site.theme }}";
+
 a:hover, a:focus {
   color: #690;
   font-weight: bold;
 }
-
-
-@import "{{ site.theme }}";

@@ -12,7 +12,7 @@ I'm a DevOps Engineer/Backend Software Engineer hybrid with a wide experience in
 - GitLab CI
 - nginx
 
-Over the years I've built everything from multiplayer game networking libraries to apps used in the cockpits of planes. Visit my [projects](projects.d) for a tate of some of the things I've worked on.
+Over the years I've built everything from multiplayer game networking libraries to apps used in the cockpits of planes. Visit my [projects](projects.d) for a taste of some of the things I've worked on.
 
 ## Things I Want To Learn
 Rust is a language I'd love to pick up, I've [dabbled a little](https://github.com/cantino/mcfly/pull/73) but never quite had quite enough experience to really feel like I know what I'm doing. Other technologies I'd love to learn are Redis, more shell tools (everything can be done with `sed` and `awk` if you try hard enough) and Go.
