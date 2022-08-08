@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a:link, a:visited, a:active {
+  color: #690;
+}
+
 a:hover, a:focus {
   color: #690;
   font-weight: bold;
