@@ -1,17 +1,26 @@
 ---
 ---
 
+/*
+ * Palette
+ * #222222
+ * #004643
+ * #FAF4D3
+ * #CE796B
+ * #F6BE9A
+ */
+
 @import "{{ site.theme }}";
 
 a:link, a:visited, a:active {
-  color: #690;
+  color: #CE796B;
 }
 
-p > a:hover, p > a:focus {
-  color: #EAE0CC;
+p > a:hover, p > a:focus, small > a:hover, small > a:focus {
+  color: #F6BE9A;
   font-weight: normal;
 }
 
 h1 > a:hover, h1 > a:focus {
-  color: #EAE0CC;
+  color: #F6BE9A;
 }
