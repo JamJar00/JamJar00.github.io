@@ -12,9 +12,10 @@ I'm a DevOps Engineer/Backend Software Engineer hybrid with a wide experience in
 - GitLab CI
 - nginx
 
-Over the years I've built everything from multiplayer game networking libraries to apps used in the cockpits of planes. Visit my [projects](projects.md) for a taste of some of the things I've worked on.
+## Projects
+Over the years I've built everything from multiplayer game networking libraries to apps used in the cockpits of planes. Check out some of the [projects](projects.md) I've worked on.
 
-## Things I Want To Learn
+## Things To Learn
 Rust is a language I'd love to pick up, I've [dabbled a little](https://github.com/cantino/mcfly/pull/73) but never quite had quite enough experience to really feel like I know what I'm doing. Other technologies I'd love to learn are Redis, more shell tools (everything can be done with `sed` and `awk` if you try hard enough) and Go.
 
 Other spoken languages are something I'm striving to pick up at some point. For me, being able to understand a second language is incredibly important and helps us understand other cultures better. Since starting to get the hang of Spanish these last few years I'm keen to continue learning and pickup a third to a basic level at some point. I'm always envious of those who speak so fluently in other languages!
