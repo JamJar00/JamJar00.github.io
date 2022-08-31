@@ -15,3 +15,6 @@ These two projects were also originally designed for use in DarkRift to provided
 
 ## restdir
 [A simple project to serve a directory.](https://github.com/JamJar00/restdir) This is something I've needed a few times and was always a little sad there wasn't a simple and lightweight tool for it. I can't say I've actually used it since writing it, but at least I know I have it now!
+
+## SpanishDict Shortcut
+While practising my Spanish I regularly find myself looking up words by copying them, opening up [SpanishDict.com](https://spanishdict.com), pasting them and hitting enter. In search of an afternoon's entertainment and a few less clicks [I wrote my first Firefox add-on](https://github.com/JamJar00/spanishdict-shortcut) to add a simple button in the context menu that gets you straight to your highlighted word's definition and translation. You can even install it yourself [here](https://addons.mozilla.org/en-GB/firefox/addon/spanishdict-shortcut/)!
