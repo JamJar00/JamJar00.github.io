@@ -6,7 +6,7 @@ I'm a DevOps Engineer/Backend Software Engineer hybrid with a wide experience in
 - Kubernetes
 - Terraform
 - AWS & GCP
-- C#, Java & Python (fortunately, bash is still not in my top 3 languages, though it is closing in)
+- C#, Java & Python
 - Kafka
 - Postgres
 - GitLab CI
