@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Hazel Networking
 tags: showdev, networking, dotnet, opensource
 ---
