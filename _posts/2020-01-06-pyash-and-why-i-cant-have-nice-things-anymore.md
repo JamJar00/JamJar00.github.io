@@ -155,14 +155,12 @@ print(nc("localhost", "22") < "nice_things.txt")
 rm("nice_things.txt")
 ```
 
-So I present to you my first PyPI repository, Pyash!
+So I present to you my first PyPI repository, [Pyash](https://github.com/JamJar00/pyash)!
 
-{% github JamJar00/pyash %}
 ('pyash' being 'python-bash', if you didn't get that... :grimacing:)
 
 I don't recommend you use it; I can't imagine your coworkers would be best pleased with you using it either, and frankly it fails a number of PEP-8 style guidelines. However, it does go to show how much you can abuse Python and what you can do with a little creativity!
 
 It's not nice, nor is it a good idea and I feel like I've made a very beautiful language into a monster. This is why I can't have nice things.
-
 
 I hope you've enjoyed this story, if you have any of your own thoughts of things that could be added to Pyash or ways in which it can abuse Python further please do comment below and/or give them a go yourself!
