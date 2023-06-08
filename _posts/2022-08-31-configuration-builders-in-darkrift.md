@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Configuration Builders in DarkRift"
-tags: DarkRift
+title: Configuration Builders in DarkRift
+tags: darkrift
 ---
 
 I think most people know that you can host a DarkRift server within your own .NET application fairly easily. There's essentially three steps to it:
