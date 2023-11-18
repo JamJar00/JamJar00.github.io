@@ -6,3 +6,5 @@ logo: /assets/profile.jpg
 socials:
   linkedin: https://www.linkedin.com/in/jamieread/
   dev: https://dev.to/jamoyjamie
+plugins:
+  - jekyll-sitemap
