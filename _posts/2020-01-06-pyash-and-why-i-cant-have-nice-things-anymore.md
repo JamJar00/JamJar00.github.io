@@ -80,7 +80,7 @@ class EvaluationResult:
 ```
 In this case we've overridden the greater than operator to write to a file of the name taken from the string it's comparing against.
 
-I won't show my full code, because at this point I switched to using `subprocess.Popen` instead of `os.system` to run the executables, and that's a whole other ropic I don't want to explain here.
+I won't show my full code, because at this point I switched to using `subprocess.Popen` instead of `os.system` to run the executables, and that's a whole other topic I don't want to explain here.
 
 Let's throw in a different example:
 ```python

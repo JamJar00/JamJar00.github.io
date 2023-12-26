@@ -8,3 +8,4 @@ socials:
   dev: https://dev.to/jamoyjamie
 plugins:
   - jekyll-sitemap
+  - jemoji
