@@ -7,6 +7,9 @@ Originally a project I started to learn C#, it grew to be one of the top five ne
 ## Hazel Networking
 Designed as the foundation for DarkRift 2, [Hazel](https://github.com/DarkRiftNetworking/Hazel-Networking) was a low level networking library that handled reliable UDP communication, supporting ordered messages and fragmentation. While never getting incorporated into DarkRift's final codebase, it did get [forked](https://github.com/willardf/Hazel-Networking) and used as the networking library for the multi-award winning game [Among Us](https://store.steampowered.com/app/945360/Among_Us/).
 
+## Compute Cost
+AWS compute costs scale differently with load. To make this easier to visualise and compare (roughly at least) I put together an interactive dashboard you can try for yourself [here](https://compute-cost.jread.dev)
+
 ## SpanishDictionary Shortcut
 While practising Spanish I regularly find myself looking up words by copying them, opening up [SpanishDictionary.com](https://spanishdict.com), pasting them and hitting enter. In search of an afternoon's entertainment and a few less clicks, [I developed my first Firefox add-on](https://github.com/JamJar00/spanishdictionary-shortcut): a simple button in the context menu that gets you straight to your highlighted word's definition and translation. Sure enough, this is saved me countless hours since building it. You can install it yourself [here](https://addons.mozilla.org/en-GB/firefox/addon/spanishdictionary-shortcut/)!
 
